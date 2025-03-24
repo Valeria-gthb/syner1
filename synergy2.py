@@ -1,0 +1,1 @@
+print("Hominidae" , "Homo habilis" , "Homo erectus" , "Homo neanderthalensis" , "Homo sapiens" , "Homo sapiens sapiens" , sep=" => ")
